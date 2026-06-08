@@ -73,7 +73,7 @@ mission-control-ai/
 ## 1. Clone o repositório
 
 
-git clone https://github.com/SEU-USUARIO/mission-control-ai.git
+git clone  https://github.com/codebylaura07/envirosat-guardian
 
 
 ---
@@ -186,15 +186,10 @@ Baixa disponibilidade energética comprometendo a missão.
 
 ## Status operacional da missão
 
-![Status da missão](assets/screenshot_banner.png)
+![Status da missão](assets/banner.png)
 
 ---
 
-## Análise da IA em tempo real
-
-![Análise da IA](assets/screenshot_analise.png)
-
----
 
 # 🤖 System Prompt
 
