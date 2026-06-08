@@ -1,0 +1,108 @@
+
+[
+{
+"id": "incendio_critico",
+"descricao": "Grande foco de incêndio detectado na Amazônia",
+"telemetria": {
+"satelite": "EnviroSat-1",
+"orbita_numero": 4821,
+"regiao_imageada": "Amazônia Legal - PA",
+"timestamp": "2026-06-08T21:10:00Z",
+
+"temp_brilho_K": 348.5,
+"focos_calor_detectados": 21,
+"confianca_termica_pct": 97.2,
+
+"ndvi": 0.14,
+"cobertura_nuvens_pct": 18.4,
+"resolucao_efetiva_m": 12.0,
+
+"imagens_buffer": 242,
+"buffer_capacidade": 256,
+"buffer_uso_pct": 94.5,
+"downlink_mbps": 28.2,
+
+"erro_geolocalizacao_m": 34.8,
+"gps_satellites_lock": 4,
+
+"tensao_painel_solar_V": 22.4,
+"bateria_pct": 14.3,
+"consumo_W": 401.5,
+
+"altitude_km": 752.3,
+"velocidade_km_s": 7.532,
+"angulo_nadir_deg": 18.5
+}
+},
+
+{
+"id": "desmatamento_suspeito",
+"descricao": "Queda de NDVI indicando possível desmatamento",
+"telemetria": {
+"satelite": "EnviroSat-1",
+"orbita_numero": 4888,
+"regiao_imageada": "Cerrado - MT",
+"timestamp": "2026-06-08T22:00:00Z",
+
+"temp_brilho_K": 319.4,
+"focos_calor_detectados": 4,
+"confianca_termica_pct": 88.1,
+
+"ndvi": 0.19,
+"cobertura_nuvens_pct": 22.0,
+"resolucao_efetiva_m": 10.0,
+
+"imagens_buffer": 180,
+"buffer_capacidade": 256,
+"buffer_uso_pct": 70.3,
+"downlink_mbps": 74.0,
+
+"erro_geolocalizacao_m": 12.2,
+"gps_satellites_lock": 8,
+
+"tensao_painel_solar_V": 29.8,
+"bateria_pct": 62.5,
+"consumo_W": 280.4,
+
+"altitude_km": 748.1,
+"velocidade_km_s": 7.501,
+"angulo_nadir_deg": 9.4
+}
+},
+
+{
+"id": "operacao_nominal",
+"descricao": "Missão operando normalmente",
+"telemetria": {
+"satelite": "EnviroSat-1",
+"orbita_numero": 4910,
+"regiao_imageada": "Pantanal - MS",
+"timestamp": "2026-06-08T23:30:00Z",
+
+"temp_brilho_K": 302.2,
+"focos_calor_detectados": 1,
+"confianca_termica_pct": 92.5,
+
+"ndvi": 0.73,
+"cobertura_nuvens_pct": 15.2,
+"resolucao_efetiva_m": 10.0,
+
+"imagens_buffer": 42,
+"buffer_capacidade": 256,
+"buffer_uso_pct": 16.4,
+"downlink_mbps": 188.0,
+
+"erro_geolocalizacao_m": 2.4,
+"gps_satellites_lock": 11,
+
+"tensao_painel_solar_V": 31.2,
+"bateria_pct": 87.0,
+"consumo_W": 214.6,
+
+"altitude_km": 751.5,
+"velocidade_km_s": 7.522,
+"angulo_nadir_deg": 4.1
+}
+}
+]
+
