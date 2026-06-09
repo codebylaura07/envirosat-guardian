@@ -63,8 +63,8 @@ mission-control-ai/
 │   └── cenarios.json
 │
 └── assets/
-    ├── screenshot_banner.png
-    └── screenshot_analise.png
+    ├── banner.png
+    └── analise_AI.png
 
 ---
 
@@ -184,7 +184,7 @@ Baixa disponibilidade energética comprometendo a missão.
 
 # 📸 Demonstração
 
-## Status operacional da missão
+## banner da missão
 
 ![Status da missão](assets/banner.png)
 
