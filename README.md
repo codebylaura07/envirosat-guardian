@@ -229,8 +229,7 @@ A integração entre IA generativa e telemetria espacial reduz o tempo de interp
 
 # 🎬 Vídeo de demonstração
 
-🔗 https://www.youtube.com/watch?v=SEU_LINK_AQUI
-
+🔗 https://youtu.be/wG5dw21e5Rk?si=oXxJsAp7t8zxXVSP
 ---
 
 # 📚 Disciplina
